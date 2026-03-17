@@ -1,0 +1,26 @@
+*{
+    background-color: darkslategray;
+    font-family: "teko", "sans-serif";
+    font-size: 20px;
+    color: white;
+}
+
+h1{
+    font-family: "Grenze Gotisch", "sans-serif";
+    font-size: 35PX;
+    text-align: center;
+}
+
+h2{
+    font-family: "Courier Prime", "sans-serif";
+    font-size: 16PX;
+    text-align: center;
+}
+h3{
+    font-family: "aladin", "sans-serif";
+    font-size: 25PX;
+}
+p{
+    align-items: center;
+    font-size: 19px;
+}
